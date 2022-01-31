@@ -1,6 +1,7 @@
-# icosa-web
+# Metavese Asset Viewer
+Metaverse Asset Viewer is a 3D object viewer forked from Icosa Gallery (Apache V2) which was originally forked from Google's Poly project for the same.
 
-Repository for [Icosa Gallery](https://icosa.gallery)
+Demo view from Icosa: https://beta.icosa.gallery/view/kudoalbus/nH763A-8B3U
 
 # Getting Started
 
